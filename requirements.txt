@@ -1,0 +1,5 @@
+requests
+feedparser
+pytz
+beautifulsoup4
+websocket-client
